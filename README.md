@@ -1,2 +1,2 @@
-# statement
- repositorio do curso
+# STATEMENT MANAGEMENT CONSULTING
+ repositório do curso
